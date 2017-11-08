@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_postatask"
+        android:icon="@drawable/ic_postatask"
+        android:title="@string/title_posttask"/>
+
+    <item
+        android:id="@+id/navigation_mytasks"
+        android:icon="@drawable/ic_mytasks"
+        android:title="@string/title_mytasks"/>
+
+    <item
+        android:id="@+id/navigation_browse"
+        android:icon="@drawable/ic_browse"
+        android:title="@string/title_browse"/>
+
+    <item
+        android:id="@+id/navigation_messages"
+        android:icon="@drawable/ic_messages"
+        android:title="@string/title_messages"/>
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more"
+        android:title="@string/title_more"/>
+
+</menu>

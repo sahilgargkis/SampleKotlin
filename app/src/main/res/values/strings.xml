@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SampleKotlin</string>
+    <string name="logo">Logo</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="loading">Loading</string>
+    <string name="choosecaptn">"Find local people to help you around the home or office "</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginwithfb">Login with Facebook</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="firstname">First name</string>
+    <string name="lastname">Last name</string>
+    <string name="repass">Re enter Password</string>
+    <string name="enterhomesuburb">Enter your home suburb</string>
+    <string name="getstarted">Get Started</string>
+    <string name="taskworkoptnque">What would you like to do on task work?</string>
+    <string name="posttasks">Post Tasks</string>
+    <string name="complettasks">Complete Tasks</string>
+    <string name="createprofile">Create Profile</string>
+
+    <string name="title_posttask">Post a Task</string>
+    <string name="title_mytasks">My Tasks</string>
+    <string name="title_browse">Browse</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_more">More</string>
+</resources>
